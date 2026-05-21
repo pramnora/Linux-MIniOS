@@ -2,11 +2,13 @@
 Linux MiniOS Operating System  
 
 **File created**: *21st May 2026 00:10 AM GMT*  
-**Last updated**: *21st May 2026 00:10 AM GMT*  
+**Last updated**: *21st May 2026 00:35 AM GMT*  
 
 To be honest, I'm not exactly sure when I started using Linux MiniOS Standard version..; but, I'm sure, I've been using it for around a year, at least, now.  
-I brought a cheap mini-PC box from off eBay...costing around £50.00. It is really low on memory 4 GB/and, too, hard drive space...; so, this PC runs extremely 'slow'...!  
--(But, I thought it might be possible to updgrade memory, later on.)-  
+
+I brought a cheap mini-PC box from off eBay...costing around £50.00. It is really low on memory 4 GB/and, too, SSD drive space...; so, this PC runs extremely 'slow'...!  
+
+-(But, I thought it might be possible to upgrade memory, later on.)-  
 
 -----
 
@@ -28,6 +30,16 @@ The command to update and upgrade all system packages is...
 
 sudo apt update  
 sudo apt upgrade -y  
+
+-----
+
+Sometimes, I've had problems with the sound...; which sounds really 'tinny' when output through the built-in computer box speakers.    
+
+However, I learned it's possible to change this by choosing 'headphones'.  
+
+Menu -> Multimedia -> Volume control -> Output devices -> Port -> headphones (unplugged)    
+
+...then, the sound output is sent through the computer monitor built-in speakers, instead; which sounds so much 'clearer'.  
 
 -----
 
