@@ -5,7 +5,7 @@ Linux MiniOS Operating System
 **Last updated**: *21st May 2026 00:10 AM GMT*  
 
 To be honest, I'm not exactly sure when I started using Linux MiniOS Standard version..; but, I'm sure, I've been using it for around a year, at least, now.  
-I brought a mini-PC box from off ebay...costing around £50.00. It was really low on memory/and, too, hard drive space...; so, this PC runds really 'slow'...!  
+I brought a cheap mini-PC box from off eBay...costing around £50.00. It is really low on memory 4 GB/and, too, hard drive space...; so, this PC runs extremely 'slow'...!  
 -(But, I thought it might be possible to updgrade memory, later on.)-  
 
 -----
@@ -26,8 +26,8 @@ HOW TO UPDATE AND UPGRADE 'ALL' SYSTEM PACKAGES
 
 The command to update and upgrade all system packages is...
 
-sudo apt update
-sudo apt upgrade -y
+sudo apt update  
+sudo apt upgrade -y  
 
 -----
 
