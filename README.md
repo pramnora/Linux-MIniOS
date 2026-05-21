@@ -26,6 +26,16 @@ Apparently, MiniOS comes in 3 different versions...
 
 -----
 
+## WEB BROWSER
+
+MiniOS comes with Firefox web browwser already installed.
+
+[CTRL]+[T], Opens a new tab
+[CTRL]+[W], Closes the current tab
+[CTRL]+[U], Displays the underlying web page codes
+
+-----
+
 ## HOW TO UPDATE AND UPGRADE 'ALL' SYSTEM PACKAGES
 
 The command to update and upgrade all system packages is...
@@ -35,29 +45,17 @@ sudo apt upgrade -y
 
 -----
 
-## SOUND FIX ISSUES
-
-Sometimes, I've had problems with the sound...; which sounds really 'tinny' when output through the built-in computer box speakers.    
-
-However, I learned it's possible to change this by choosing 'headphones'.  
-
-Menu -> Multimedia -> Volume control -> Output devices -> Port -> headphones (unplugged)    
-
-...then, the sound output is sent through the computer monitor built-in speakers, instead; which sounds so much 'clearer'.  
-
------
-
 ## HOW TO INSTALL SOFTWARE  
 
-#### Editors
+## Editors
 
 - sudo apt install emacs  
 - sudo apt install gedit    
 - sudo apt install vim  
 
-### PROGRAMMING
+## PROGRAMMING
 
-#### CLISP
+### CLISP
 
 - sudo apt install clisp  
 
@@ -72,6 +70,20 @@ Here's a simple CLisp program one can try...
 (print (+ 1 2))  
 ...outputs...  
 3  
+
+-----
+
+## HARDWARE
+
+### SOUND FIX ISSUES
+
+Sometimes, I've had problems with the sound...; which sounds really 'tinny' when output through the built-in computer box speakers.    
+
+However, I learned it's possible to change this by choosing 'headphones'.  
+
+Menu -> Multimedia -> Volume control -> Output devices -> Port -> headphones (unplugged)    
+
+...then, the sound output is sent through the computer monitor built-in speakers, instead; which sounds so much 'clearer'.  
 
 -----
 
