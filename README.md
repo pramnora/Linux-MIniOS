@@ -67,6 +67,9 @@ Insert/retrieve data...
 set name "Jack"  
 get name  
 
+Exit Redis Database...  
+
+exit  
 
 ## Editors
 
@@ -88,14 +91,12 @@ EXAMPLE CLisp program to add 2 numbers (uses Polish prefix notation).
 
 Here's a simple CLisp program one can try...  
 
-(print (+ 1 2))  
-...outputs...  
-3  
+(print (+ 1 2)) ; outputs: 3   
 
-Here's how to define/and, run a function...
+Here's how to define/and, run a function...  
 
-(defun add(x y)(+ x y))  
-(print (add 1 2)) ; output: 3  
+(defun add(x y)(+ x y))   
+(print (add 1 2)) ; output: 3    
 
 -----
 
