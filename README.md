@@ -2,11 +2,11 @@
 Linux MiniOS Operating System  
 
 **File created**: *21st May 2026 00:10 AM GMT*  
-**Last updated**: *21st May 2026 00:35 AM GMT*  
+**Last updated**: *21st May 2026 12:15 PM GMT*  
 
 To be honest, I'm not exactly sure when I started using Linux MiniOS Standard version..; but, I'm sure, I've been using it for around a year, at least, now.  
 
-I brought a cheap mini-PC box from off eBay...costing around £50.00. It is really low on memory 4 GB/and, too, SSD drive space...; so, this PC runs extremely 'slow'...!  
+I brought a *cheap* mini-PC box from off eBay...costing around £50.00. It is really low on memory 4 GB/and, too, SSD drive space...; so, this PC runs extremely 'slow'...!  
 
 -(But, I thought it might be possible to upgrade memory, later on.)-  
 
@@ -26,22 +26,29 @@ Apparently, MiniOS comes in 3 different versions...
 
 -----
 
-## WEB BROWSER
-
-MiniOS comes with Firefox web browwser already installed.
-
-[CTRL]+[T], Opens a new tab  
-[CTRL]+[W], Closes the current tab  
-[CTRL]+[U], Displays the underlying web page codes  
-
------
-
-## HOW TO UPDATE AND UPGRADE 'ALL' SYSTEM PACKAGES
+## HOW TO UPDATE AND UPGRADE 'ALL' SYSTEM PACKAGES BY USING THE TERMINAL COMMAND WINDOW  
 
 The command to update and upgrade all system packages is...
 
 sudo apt update  
 sudo apt upgrade -y  
+
+-----
+
+## WEB BROWSER
+
+MiniOS comes with Firefox web browser already installed.
+
+Control key...  
+
+[CTRL]+[T], Opens a new tab  
+[CTRL]+[W], Closes the current tab  
+[CTRL]+[U], Displays the underlying web page codes  
+
+Function keys...  
+
+[F11],Full screen  
+[F12],Web page inspector  
 
 -----
 
