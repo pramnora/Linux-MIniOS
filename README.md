@@ -24,7 +24,9 @@ Apparently, MiniOS comes in 3 different versions...
 
 **NOTE**: MiniOS can be run from a live external USB disk.  
 
-HOW TO UPDATE AND UPGRADE 'ALL' SYSTEM PACKAGES
+-----
+
+## HOW TO UPDATE AND UPGRADE 'ALL' SYSTEM PACKAGES
 
 The command to update and upgrade all system packages is...
 
