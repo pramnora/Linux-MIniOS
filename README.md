@@ -30,9 +30,9 @@ Apparently, MiniOS comes in 3 different versions...
 
 MiniOS comes with Firefox web browwser already installed.
 
-[CTRL]+[T], Opens a new tab
-[CTRL]+[W], Closes the current tab
-[CTRL]+[U], Displays the underlying web page codes
+[CTRL]+[T], Opens a new tab  
+[CTRL]+[W], Closes the current tab  
+[CTRL]+[U], Displays the underlying web page codes  
 
 -----
 
@@ -46,6 +46,20 @@ sudo apt upgrade -y
 -----
 
 ## HOW TO INSTALL SOFTWARE  
+
+## Database  
+
+- sudo apt install redis  
+
+Load database...  
+
+redis-cli  
+
+Insert/retrieve data...    
+
+set name "Jack"  
+get name  
+
 
 ## Editors
 
@@ -70,6 +84,11 @@ Here's a simple CLisp program one can try...
 (print (+ 1 2))  
 ...outputs...  
 3  
+
+Here's how to define/and, run a function...
+
+(defun add(x y)(+ x y))  
+(print (add 1 2)) ; output: 3  
 
 -----
 
