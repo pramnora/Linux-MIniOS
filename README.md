@@ -49,7 +49,17 @@ Menu -> Multimedia -> Volume control -> Output devices -> Port -> headphones (un
 
 ## HOW TO INSTALL SOFTWARE  
 
-sudo apt install clisp  
+#### Editors
+
+- sudo apt install emacs  
+- sudo apt install gedit    
+- sudo apt install vim  
+
+### PROGRAMMING
+
+#### CLISP
+
+- sudo apt install clisp  
 
 ...next, type: clisp...to get the CList/CommonLisp program up and running on screen.  
 
