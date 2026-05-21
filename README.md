@@ -18,11 +18,11 @@ Apparently, MiniOS comes in 3 different versions...
 
 - MiniOS Standard  
 - MiniOS Toolbox  
-- MinoOS Ultra  
+- MiniOS Ultra  
 
-...I'm running the standard version.  
+...I'm running the Standard version.  
 
-**NOTE**: MiniOS can be run from a live external USB disk.  
+**NOTE**: MiniOS can be run from a 'live' external USB disk...; as it doesn't demand too much system memory.     
 
 -----
 
@@ -44,6 +44,24 @@ However, I learned it's possible to change this by choosing 'headphones'.
 Menu -> Multimedia -> Volume control -> Output devices -> Port -> headphones (unplugged)    
 
 ...then, the sound output is sent through the computer monitor built-in speakers, instead; which sounds so much 'clearer'.  
+
+-----
+
+## HOW TO INSTALL SOFTWARE  
+
+sudo apt install clisp  
+
+...next, type: clisp...to get the CList/CommonLisp program up and running on screen.  
+
+Type: [CTRL] + [Z] to exit.  
+
+EXAMPLE CLisp program to add 2 numbers (uses Polish prefix notation).  
+
+Here's a simple CLisp program one can try...  
+
+(print (+ 1 2))  
+...outputs...  
+3  
 
 -----
 
