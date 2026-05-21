@@ -12,7 +12,7 @@ I brought a cheap mini-PC box from off eBay...costing around £50.00. It is real
 
 -----
 
-MINI-OS INFO.
+## MINI-OS INFO.
 
 Apparently, MiniOS comes in 3 different versions...  
 
@@ -32,6 +32,8 @@ sudo apt update
 sudo apt upgrade -y  
 
 -----
+
+## SOUND FIX ISSUES
 
 Sometimes, I've had problems with the sound...; which sounds really 'tinny' when output through the built-in computer box speakers.    
 
